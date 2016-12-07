@@ -1,27 +1,9 @@
 ddddddddd
-
-
-
-
-
-
-
-
 kkkkkkkkkkkkkdsadsa
-
-
-
 dasdasd
-
-
-
-
-
 asdasd
+alert(666).
 
 
 
-
-
-
-alert(666)
+xiugai
